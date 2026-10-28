@@ -1,4 +1,4 @@
-# Go Mini Git
+ Go Mini Git
 
 A simplified implementation of Git built from scratch using Go to understand how version control systems work internally.
 
